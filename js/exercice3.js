@@ -1,0 +1,1 @@
+prompt("Bonjour", "Saisissez votre prénom");
